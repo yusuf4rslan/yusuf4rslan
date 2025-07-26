@@ -8,7 +8,7 @@ Hello, I'm Yusuf Arslan. I am a 21-year-old software developer living in Midyat,
 
 ## Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,nodejs,express,ts,mysql,java,git&theme=dark" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,nodejs,npm,express,ts,mysql,java,git&theme=dark" alt="My Skills"/>
 </p>
 
 ## GitHub Stats
