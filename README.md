@@ -8,13 +8,13 @@ Hello, I'm Yusuf Arslan. I am a 21-year-old software developer living in Midyat,
 
 ## Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,nodejs,express,tyoescript,mysql,java,git&theme=dark" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,nodejs,express,mysql,java,git,ts&theme=dark" alt="My Skills"/>
 </p>
 
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=yusuf4rslan&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<img src="https.github-readme-stats.vercel.app/api/top-langs/?username=yusuf4rslan&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf4rslan&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf4rslan&theme=tokyonight" alt="GitHub Streak" />
