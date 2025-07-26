@@ -7,15 +7,14 @@ Hello, I'm Yusuf Arslan. I am a 21-year-old software developer living in Midyat,
 <p><a href="https://www.linkedin.com/in/yusuf4rslan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/yu5uf4rslan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,sass,bootstrap,mysql,java,git,vscode&theme=dark&perline=7" alt="My Skills"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,nodejs,express,mysql,java,git&theme=dark" alt="My Skills"/>
 </p>
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf4rslan&show_icons=true&count_private=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf4rslan&layout=compact&theme=tokyonight" alt="Yusuf's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf4rslan&theme=tokyonight" alt="Yusuf's GitHub Streak" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yusuf4rslan&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https.github-readme-stats.vercel.app/api/top-langs/?username=yusuf4rslan&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf4rslan&theme=tokyonight" alt="GitHub Streak" />
