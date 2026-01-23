@@ -29,6 +29,6 @@ I'm a passionate software developer from Turkey. My journey is driven by a curio
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql&theme=dark" alt="Backend and Database Skills"/>
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,npm,vite,jest,postman&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,docker,npm,vite,jest,postman,vercel&theme=dark" alt="Tools"/>
 
 </div>
